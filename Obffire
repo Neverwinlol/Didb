@@ -42,14 +42,6 @@ Tab:AddToggle({
 	end    
 })
 
-Tab:AddToggle({
-	Name = "Auto Spam Shoot!",
-	Default = false,
-	Callback = function(Value)
-		print("Enable Auto Spam")
-	end    
-})
-
 Tab:AddParagraph("Inf","inf Gem Need All Quest")
 
 Tab:AddToggle({
