@@ -47,8 +47,6 @@ Tab:AddToggle({
 	Default = false,
 	Callback = function(Value)
 		print("Enable Auto Spam")
-		else
-		print("Disable Auto Spam")
 	end    
 })
 
